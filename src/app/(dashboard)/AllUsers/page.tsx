@@ -2,7 +2,8 @@ import React from 'react';
 
 const AllUsersPage = () => {
     return (
-        <div>
+        <div className=''>
+        
             All Users
         </div>
     );
